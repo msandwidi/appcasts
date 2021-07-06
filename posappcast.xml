@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
-        <title>Version 0.28.4</title>
-        <sparkle:version>0.28.4</sparkle:version>
-        <sparkle:maximumSystemVersion>0.28.4</sparkle:maximumSystemVersion>
+        <title>Version 0.28.5</title>
+        <sparkle:version>0.28.5</sparkle:version>
+        <sparkle:maximumSystemVersion>0.28.5</sparkle:maximumSystemVersion>
     </item>
   </channel>
 </rss>
