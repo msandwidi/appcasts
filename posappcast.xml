@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <item>
-        <title>Version 0.30.8</title>
-        <sparkle:version>0.30.8</parkle:version>
-        <sparkle:maximumSystemVersion>0.30.8</parkle:maximumSystemVersion>
+        <title>Version 0.32.1</title>
+        <sparkle:version>0.32.1</parkle:version>
+        <sparkle:maximumSystemVersion>0.32.1</parkle:maximumSystemVersion>
         <enclosure url="https://play.google.com/store/apps/details?id=com.tinybaobab.baobab.pos" sparkle:version="1.15.0" sparkle:os="android" />
     </item>
   </channel>
